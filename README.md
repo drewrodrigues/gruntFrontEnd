@@ -1,5 +1,5 @@
 # gruntFrontEnd
-A way to structure your website, to standardize and increase productivity when creating websites.
+A way to structure, standardize and increase productivity when creating websites.
 
 :white_check_mark: SCSS -> CSS conversion
 
